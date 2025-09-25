@@ -1,0 +1,10 @@
+<!DOCTYPE html><html lang="az"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Tapılmadı — Simplex System</title>
+<link rel="stylesheet" href="/styles.css">
+</head><body>
+<div class="container" style="padding:80px 20px;text-align:center">
+  <h1>404 — Səhifə tapılmadı</h1>
+  <p><a class="btn ghost" href="/">Ana səhifəyə qayıt</a></p>
+</div>
+</body></html>

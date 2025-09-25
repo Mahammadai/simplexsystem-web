@@ -1,0 +1,35 @@
+:root{
+  --brand:#27DEBF; --ink:#0f172a; --muted:#5b657a;
+  --grad: linear-gradient(135deg,#27DEBF,#4f46e5);
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);background:#f7fafc}
+.container{max-width:1060px;margin:auto;padding:24px}
+.nav{position:sticky;top:0;background:#fffbd;backdrop-filter:saturate(180%) blur(8px);border-bottom:1px solid #eef2f7;z-index:10}
+.nav .container{display:flex;align-items:center;gap:20px}
+.nav a{color:var(--ink);text-decoration:none;font-weight:600;padding:12px 10px;display:inline-block}
+.nav a.brand{display:flex;align-items:center;gap:10px}
+.nav a:hover{color:#4f46e5}
+.hero{background:var(--grad);color:#fff;padding:60px 0}
+.hero .container{display:grid;gap:10px}
+.hero h1{margin:0;font-size:clamp(26px,4vw,40px)}
+.hero p{margin:6px 0 0;font-size:clamp(15px,2vw,18px)}
+.cta{display:flex;gap:12px;margin-top:16px;flex-wrap:wrap}
+.btn{border:0;border-radius:10px;padding:12px 16px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.primary{background:#0ea5e9;color:#002133}
+.btn.ghost{background:#fff;color:#0f172a;border:1px solid #e6eaf5}
+.section{padding:36px 0}
+.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.card{background:#fff;border:1px solid #e6eaf5;border-radius:12px;padding:18px}
+.card h3{margin:0 0 8px}
+.kicker{font-weight:800;color:#4f46e5;margin:0 0 6px;text-transform:uppercase;letter-spacing:.02em;font-size:13px}
+.footer{background:#0b1220;color:#cbd5e1;padding:26px 0;margin-top:40px}
+.footer a{color:#93c5fd}
+.badge{display:inline-block;background:#ecfeff;border:1px solid #cffafe;color:#0b7285;border-radius:999px;padding:4px 10px;font-size:12px}
+.note{color:var(--muted);font-size:14px}
+ul.check{padding-left:18px}
+ul.check li{margin:6px 0}
+.contact-box{background:#fff;border:1px solid #e6eaf5;border-radius:12px;padding:20px}
+.mail{color:var(--brand);font-weight:800;text-decoration:none}
+.mail:hover{color:#1aa690;text-decoration:underline}
+@media (max-width:640px){.cta{flex-direction:column}}

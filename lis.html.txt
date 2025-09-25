@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="az"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>LIS — Simplex System</title>
+<meta name="description" content="LIS: cihaz inteqrasiyası, nəticə təsdiqi, SMS/WhatsApp bildirişləri, PDF/Excel ixracı.">
+<link rel="stylesheet" href="styles.css"><link rel="icon" href="https://bimi-logo-49q.pages.dev/logo.svg">
+</head><body>
+<nav class="nav"><div class="container">
+  <a class="brand" href="/"><img src="https://bimi-logo-49q.pages.dev/logo.svg" width="28" height="28"> <strong>Simplex System</strong></a>
+  <div style="margin-left:auto"><a href="/pacs.html">PACS</a><a href="/lis.html">LIS</a><a href="/his.html">HIS</a><a href="/contact.html">Əlaqə</a></div>
+</div></nav>
+
+<header class="hero"><div class="container">
+  <span class="badge">LIS</span>
+  <h1>Laboratoriya iş axınlarının avtomatlaşdırılması</h1>
+  <p>HL7/ASTM cihaz bağlantısı, iki mərhələli təsdiq, avtomatik PDF.</p>
+</div></header>
+
+<section class="section"><div class="container grid">
+  <div class="card"><h3>Cihaz inteqrasiyası</h3><p class="note">Analyzer-lərdən real-time nəticə</p></div>
+  <div class="card"><h3>Nəticə təsdiqi</h3><p class="note">Həkim təsdiqi + e-imza</p></div>
+  <div class="card"><h3>Bildirişlər</h3><p class="note">SMS/WhatsApp pasiyentə nəticə linki</p></div>
+</div></section>
+
+<footer class="footer"><div class="container">© Simplex System</div></footer>
+</body></html>

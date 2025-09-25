@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="az"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>HIS — Simplex System</title>
+<meta name="description" content="HIS: qeydiyyat, kassalar, maliyyə və rəhbərlik paneli.">
+<link rel="stylesheet" href="styles.css"><link rel="icon" href="https://bimi-logo-49q.pages.dev/logo.svg">
+</head><body>
+<nav class="nav"><div class="container">
+  <a class="brand" href="/"><img src="https://bimi-logo-49q.pages.dev/logo.svg" width="28" height="28"> <strong>Simplex System</strong></a>
+  <div style="margin-left:auto"><a href="/pacs.html">PACS</a><a href="/lis.html">LIS</a><a href="/his.html">HIS</a><a href="/contact.html">Əlaqə</a></div>
+</div></nav>
+
+<header class="hero"><div class="container">
+  <span class="badge">HIS</span>
+  <h1>Qəbul, uçot və rəhbərlik analitikası</h1>
+  <p>Maliyyə, şöbə məhsuldarlığı, həkim fəaliyyət göstəriciləri.</p>
+</div></header>
+
+<section class="section"><div class="container grid">
+  <div class="card"><h3>Qəbul & uçot</h3><p class="note">Növbə, qeydiyyat, ödəniş</p></div>
+  <div class="card"><h3>Dashboard</h3><p class="note">Gəlir/xərc, şöbə müqayisəsi</p></div>
+  <div class="card"><h3>İnteqrasiya</h3><p class="note">API, SSO, audit</p></div>
+</div></section>
+
+<footer class="footer"><div class="container">© Simplex System</div></footer>
+</body></html>

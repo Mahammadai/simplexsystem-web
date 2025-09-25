@@ -1,0 +1,72 @@
+<!DOCTYPE html><html lang="az"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Simplex System – PACS, LIS, HIS həlləri</title>
+<meta name="description" content="Xəstəxanalar üçün PACS (şəkil arxivi), LIS (laboratoriya) və HIS inteqrasiyaları. Avtomatlaşdırma, analitik hesabatlar və təhlükəsizlik.">
+<link rel="canonical" href="https://simplexsystem.az/">
+<link rel="icon" href="https://bimi-logo-49q.pages.dev/logo.svg">
+<link rel="stylesheet" href="styles.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"Simplex System","url":"https://simplexsystem.az/","logo":"https://bimi-logo-49q.pages.dev/logo.svg","email":"office@simplexsystem.az"}
+</script>
+</head><body>
+
+<nav class="nav">
+  <div class="container">
+    <a class="brand" href="/"><img src="https://bimi-logo-49q.pages.dev/logo.svg" alt="" width="28" height="28"><strong>Simplex System</strong></a>
+    <div style="margin-left:auto">
+      <a href="/pacs.html">PACS</a>
+      <a href="/lis.html">LIS</a>
+      <a href="/his.html">HIS</a>
+      <a href="/contact.html">Əlaqə</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="container">
+    <span class="badge">Yeni nəsil xəstəxana proqramı</span>
+    <h1>PACS, LIS və HIS üçün sürətli, təhlükəsiz və inteqrasiya olunan platforma</h1>
+    <p>Laboratoriyadan radiologiyaya, qeydiyyatdan hesabatlara qədər — hər şey bir sistemdə.</p>
+    <div class="cta">
+      <a class="btn primary" href="/contact.html">Demo istəyirəm</a>
+      <a class="btn ghost" href="/pacs.html">Xüsusiyyətlərə bax</a>
+    </div>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container grid">
+    <div class="card">
+      <p class="kicker">PACS</p>
+      <h3>Şəkil arxivi və görüntüləmə</h3>
+      <p class="note">DICOM uyğunluğu, tədqiqat paylaşımı, web viewer.</p>
+      <ul class="check"><li>Web viewer, teleradiologiya</li><li>Rol əsaslı giriş</li><li>Audit izi</li></ul>
+    </div>
+    <div class="card">
+      <p class="kicker">LIS</p>
+      <h3>Laboratoriya iş axınları</h3>
+      <p class="note">Nümunə qəbulu, nəticə təsdiqi, avtomatik PDF.</p>
+      <ul class="check"><li>Cihaz inteqrasiyası (HL7/ASTM)</li><li>İki mərhələli təsdiq</li><li>SMS/WhatsApp bildirişləri</li></ul>
+    </div>
+    <div class="card">
+      <p class="kicker">HIS</p>
+      <h3>Qəbul & uçot, analitika</h3>
+      <p class="note">Kassalar, xərc-analiz, rəhbərlik üçün dashboard.</p>
+      <ul class="check"><li>Həkim fəaliyyət göstəriciləri</li><li>Maliyyə/şöbə məhsuldarlığı</li><li>İnteqrasiya API</li></ul>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container contact-box">
+    <h3>Bizimlə əlaqə</h3>
+    <p>Öz klinikanız üçün uyğun quruluşu birlikdə seçək.</p>
+    <p>E-poçt: <a class="mail" href="mailto:office@simplexsystem.az">office@simplexsystem.az</a></p>
+  </div>
+</section>
+
+<footer class="footer"><div class="container">
+  © Simplex System — PACS • LIS • HIS
+</div></footer>
+
+</body></html>

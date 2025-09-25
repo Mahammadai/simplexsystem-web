@@ -1,0 +1,26 @@
+<!DOCTYPE html><html lang="az"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>PACS — Simplex System</title>
+<meta name="description" content="PACS: DICOM uyğun şəkil arxivi, web viewer, teleradiologiya və audit izi.">
+<link rel="stylesheet" href="styles.css"><link rel="icon" href="https://bimi-logo-49q.pages.dev/logo.svg">
+</head><body>
+
+<nav class="nav"><div class="container">
+  <a class="brand" href="/"><img src="https://bimi-logo-49q.pages.dev/logo.svg" width="28" height="28"> <strong>Simplex System</strong></a>
+  <div style="margin-left:auto"><a href="/pacs.html">PACS</a><a href="/lis.html">LIS</a><a href="/his.html">HIS</a><a href="/contact.html">Əlaqə</a></div>
+</div></nav>
+
+<header class="hero"><div class="container">
+  <span class="badge">PACS</span>
+  <h1>DICOM uyğun şəkil arxivi və web görüntüləmə</h1>
+  <p>Tədqiqatların sürətli paylaşımı, təhlükəsiz giriş və uzaqdan baxış.</p>
+</div></header>
+
+<section class="section"><div class="container grid">
+  <div class="card"><h3>Web Viewer</h3><p class="note">Multi-monitor, ölçü, anotasiya, MPR*</p></div>
+  <div class="card"><h3>İnteqrasiya</h3><p class="note">RIS/HIS ilə bidirectional HL7</p></div>
+  <div class="card"><h3>Təhlükəsizlik</h3><p class="note">Audit log, şifrələmə, SSO</p></div>
+</div></section>
+
+<footer class="footer"><div class="container">© Simplex System</div></footer>
+</body></html>

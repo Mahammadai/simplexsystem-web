@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="az"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Əlaqə — Simplex System</title>
+<link rel="stylesheet" href="styles.css"><link rel="icon" href="https://bimi-logo-49q.pages.dev/logo.svg">
+</head><body>
+<nav class="nav"><div class="container">
+  <a class="brand" href="/"><img src="https://bimi-logo-49q.pages.dev/logo.svg" width="28" height="28"> <strong>Simplex System</strong></a>
+  <div style="margin-left:auto"><a href="/pacs.html">PACS</a><a href="/lis.html">LIS</a><a href="/his.html">HIS</a><a href="/contact.html">Əlaqə</a></div>
+</div></nav>
+
+<header class="hero"><div class="container">
+  <h1>Əlaqə</h1>
+  <p>Bizə istək və suallarınızı göndərin.</p>
+</div></header>
+
+<section class="section"><div class="container">
+  <div class="contact-box">
+    <p>E-poçt: <a class="mail" href="mailto:office@simplexsystem.az">office@simplexsystem.az</a></p>
+    <p class="note">İstəsəniz, qısa məlumat da göndərə bilərsiniz:</p>
+    <p><a class="btn ghost" href="mailto:office@simplexsystem.az?subject=Demo%20t%C9%99l%C9%99bi&body=Ad%C4%B1n%C4%B1z%3A%0DT%C9%99%C5%9Fkilat%3A%0DT%C9%99l%C9%99b%3A">Mail ilə sorğu göndər</a></p>
+  </div>
+</div></section>
+
+<footer class="footer"><div class="container">© Simplex System</div></footer>
+</body></html>
